@@ -16,6 +16,9 @@ public class Search
 		WebDriver driver;
 		HomePage homePage;
 		SearchPage searchPage;
+	
+	//i have updated the code can you please check it
+		
 		
 	@Given("User opens the Application")
 	public void user_opens_the_application() 
